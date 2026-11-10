@@ -1,0 +1,98 @@
+[
+  {
+    "id": "ca-dqui",
+    "sigla": "CA-DQUI",
+    "nome": "Central Analítica do Departamento de Química",
+    "unidade": "Química",
+    "texto": "Centro multiusuário de análises químicas e físicas que atende ensino, pesquisa e extensão, com serviços para a comunidade interna e externa à UFPR.",
+    "url": "http://www.quimica.ufpr.br/paginas/centralanalitica/"
+  },
+  {
+    "id": "c3sl",
+    "sigla": "C3SL",
+    "nome": "Centro de Computação Científica e Software Livre",
+    "unidade": "Informática",
+    "texto": "Grupo de pesquisa do Departamento de Informática com linha dedicada à ciência forense computacional aplicada e à investigação de crimes digitais.",
+    "url": "https://www.c3sl.ufpr.br/"
+  },
+  {
+    "id": "catalise",
+    "sigla": "GCC",
+    "nome": "Grupo de Catálise e Cinética",
+    "unidade": "Química",
+    "texto": "Neutralização de agrotóxicos e de simulantes de armas químicas, monitoramento de agentes tóxicos e segurança química em emergências.",
+    "url": ""
+  },
+  {
+    "id": "gqm",
+    "sigla": "GQM",
+    "nome": "Grupo de Química de Materiais",
+    "unidade": "Química",
+    "texto": "Preparação e caracterização de (nano)materiais e sua aplicação em dispositivos como sensores, baterias e células solares.",
+    "url": "https://gqmufpr.wixsite.com/gqmufpr"
+  },
+  {
+    "id": "lamir",
+    "sigla": "LAMIR",
+    "nome": "Instituto Laboratório de Análise de Minerais e Rochas",
+    "unidade": "Geologia",
+    "texto": "Instituto de pesquisa do Setor de Ciências da Terra, com técnicas analíticas integradas em mineralogia e geoquímica.",
+    "url": "http://www.lamir.ufpr.br/lab/"
+  },
+  {
+    "id": "lab-air",
+    "sigla": "Lab-Air",
+    "nome": "Laboratório de Análise e Qualidade do Ar",
+    "unidade": "Engenharia Ambiental",
+    "texto": "Análise de micro e traços no meio ambiente, conservação do patrimônio cultural e ciência de materiais, incluindo aerossóis e deposição atmosférica.",
+    "url": ""
+  },
+  {
+    "id": "lape",
+    "sigla": "LAPE",
+    "nome": "Laboratório de Aquisição e Processamento de Dados Espaciais",
+    "unidade": "Geomática",
+    "texto": "Fotogrametria, GNSS, varredura a laser e pesquisa em mapeamento móvel, nuvens de pontos 3D e visão computacional.",
+    "url": "http://lapeufpr.blogspot.com/"
+  },
+  {
+    "id": "labicem",
+    "sigla": "LaBiCEM",
+    "nome": "Laboratório de Biociências e Espectrometria de Massas",
+    "unidade": "Farmácia",
+    "texto": "Desenvolvimento e validação de métodos analíticos e bioanalíticos por espectrometria de massas, com aplicações forenses, farmacêuticas e em produtos naturais.",
+    "url": ""
+  },
+  {
+    "id": "labesed",
+    "sigla": "LabESed",
+    "nome": "Laboratório de Estudos Sedimentológicos e Petrologia Sedimentar",
+    "unidade": "Geologia",
+    "texto": "Estudo de depósitos sedimentares, dinâmica costeira e recursos minerais, com serviços de caracterização de sedimentos e rochas.",
+    "url": ""
+  },
+  {
+    "id": "lpga",
+    "sigla": "LPGA",
+    "nome": "Laboratório de Pesquisas em Geofísica Aplicada",
+    "unidade": "Geologia",
+    "texto": "Métodos geofísicos aéreos e terrestres aplicados a estudos minerais, hídricos, geotécnicos, ambientais e forenses.",
+    "url": "http://www.lpga.ufpr.br/"
+  },
+  {
+    "id": "lpo",
+    "sigla": "LPO",
+    "nome": "Laboratório de Propriedades Ópticas",
+    "unidade": "Física",
+    "texto": "Investigação de propriedades ópticas, elétricas e estruturais de materiais; espectroscopia Raman aplicada às ciências forenses.",
+    "url": ""
+  },
+  {
+    "id": "rmn",
+    "sigla": "RMN",
+    "nome": "Laboratório Multiusuário de Ressonância Magnética Nuclear",
+    "unidade": "Química",
+    "texto": "Aplicações de RMN em análises forenses, controle de qualidade e determinação estrutural de substâncias.",
+    "url": ""
+  }
+]

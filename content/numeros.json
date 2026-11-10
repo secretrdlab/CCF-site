@@ -1,0 +1,22 @@
+{
+  "periodo": "2020 a abril de 2021",
+  "fonte": "Apresentação institucional do CCF ao MJSP (maio de 2021)",
+  "analises_por_solicitante": [
+    { "nome": "Polícia Federal", "valor": 339 },
+    { "nome": "Polícia Científica do Paraná", "valor": 95 },
+    { "nome": "Comunidade", "valor": 60 },
+    { "nome": "Polícia Civil do Paraná", "valor": 2 }
+  ],
+  "tipos_de_amostra": [
+    "Agrotóxicos", "Água e solo", "Álcool em gel", "Areia e rochas", "Ouro e sedimento", "Azeite",
+    "Drogas e selos", "Hormônios", "Medicamentos", "Essências", "Estimulantes", "Sangue e vísceras"
+  ],
+  "formacao": [
+    { "valor": "3", "rotulo": "dissertações de mestrado" },
+    { "valor": "1", "rotulo": "tese de doutorado" },
+    { "valor": "11", "rotulo": "mestrandos em orientação" },
+    { "valor": "4", "rotulo": "eventos de formação" },
+    { "valor": "13", "rotulo": "participações em workshops, palestras e debates" },
+    { "valor": "2", "rotulo": "linhas de pesquisa: Química Forense (PPGQ) e Perícia Forense Computacional (PPGInf)" }
+  ]
+}

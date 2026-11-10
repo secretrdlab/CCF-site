@@ -1,0 +1,22 @@
+{
+  "nota": "Composição sujeita a atualização. Para alterar, edite content/equipe.json.",
+  "coordenacao": [
+    { "nome": "André Ricardo Abed Grégio", "area": "Informática", "papel": "Coordenador" }
+  ],
+  "comite": [
+    { "nome": "Aldo José Gorgatti Zarbin", "area": "Química" },
+    { "nome": "Alessandra de Barros e Silva Bongiolo", "area": "Geofísica" },
+    { "nome": "Andersson Barison", "area": "Química" },
+    { "nome": "Andrea Pinto de Oliveira", "area": "Química" },
+    { "nome": "Anelize Manuela Bahniuk Rumbelsperger", "area": "Geologia" },
+    { "nome": "Camila de Vasconcelos Müller Athayde", "area": "Geologia" },
+    { "nome": "Carla Franciele Marcondes", "area": "Administração" },
+    { "nome": "Carlos Conforti Ferreira Guedes", "area": "Geologia" },
+    { "nome": "Caroline Da Ros Montes D'Oca", "area": "Química" },
+    { "nome": "Daniel Rodrigues dos Santos", "area": "Geomática" },
+    { "nome": "Elisa Souza Orth", "area": "Química" },
+    { "nome": "Evaldo Ribeiro", "area": "Física" },
+    { "nome": "Francinete Ramos Campos", "area": "Farmácia" },
+    { "nome": "Ricardo H. M. Godoi", "area": "Engenharia Ambiental" }
+  ]
+}

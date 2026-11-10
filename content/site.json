@@ -1,0 +1,72 @@
+{
+  "nome": "Centro de Ciências Forenses",
+  "sigla": "CCF",
+  "instituicao": "Universidade Federal do Paraná",
+  "vinculo": "Setor de Ciências Exatas",
+  "descricao": "O Centro de Ciências Forenses da UFPR reúne laboratórios e pesquisadores de diferentes áreas para apoiar a perícia oficial com pesquisa, análises e formação de profissionais.",
+
+  "hero": {
+    "etiqueta": "UFPR · Setor de Ciências Exatas",
+    "titulo": "Ciência forense feita na universidade, a serviço da sociedade.",
+    "texto": "O CCF articula laboratórios de computação, química, geologia, física, farmácia, engenharia ambiental e geomática da UFPR para atender demandas das perícias oficiais com pesquisa, análises e formação de profissionais."
+  },
+
+  "contato": {
+    "email": "ccf@ufpr.br",
+    "telefone": "(41) 3208-6312",
+    "endereco": [
+      "Setor de Ciências Exatas",
+      "Centro Politécnico da UFPR — Jardim das Américas",
+      "Curitiba, Paraná"
+    ]
+  },
+
+  "pilares": [
+    { "titulo": "Pesquisa", "texto": "Novos métodos de análise e investigação, desenvolvidos junto aos programas de pós-graduação." },
+    { "titulo": "Formação de recursos humanos", "texto": "Disciplinas, orientações e treinamentos para estudantes e peritos." },
+    { "titulo": "Ampliação da capacidade analítica", "texto": "Infraestrutura laboratorial da universidade à disposição da perícia oficial." },
+    { "titulo": "Difusão da ciência forense", "texto": "Eventos, palestras e divulgação científica para a comunidade." },
+    { "titulo": "Soberania nacional", "texto": "Tecnologia e conhecimento próprios para o enfrentamento ao crime." }
+  ],
+
+  "missao": "Formar profissionais altamente qualificados, incorporar tecnologia de ponta à investigação forense e difundir o conhecimento em Ciências Forenses, contribuindo para que o país seja referência em criminalística.",
+
+  "objetivos": [
+    { "titulo": "Formação", "texto": "Qualificar peritos criminais e oferecer treinamentos regulares em equipamentos e ferramentas tecnológicas." },
+    { "titulo": "Pesquisa e inovação", "texto": "Desenvolver novos métodos de análise forense e levar técnicas modernas à rotina de investigação." },
+    { "titulo": "Apoio institucional", "texto": "Assessorar polícias e órgãos de controle em perícias de alta complexidade e apoiar a modernização da persecução penal." },
+    { "titulo": "Cadeia de custódia", "texto": "Difundir conhecimento científico entre os responsáveis pela custódia e pela integridade das provas." },
+    { "titulo": "Academia e divulgação", "texto": "Valorizar estudos aplicados a casos reais, promover eventos científicos e abrir a infraestrutura da UFPR aos peritos." }
+  ],
+
+  "historia": [
+    { "quando": "2018", "titulo": "A ideia", "texto": "Em reunião do Setor de Ciências Exatas surge a proposta de um centro universitário dedicado às ciências forenses, a partir da articulação que já existia com as polícias do estado." },
+    { "quando": "2019", "titulo": "Base institucional", "texto": "A Resolução 31/19-COPLAD ampara a criação do Centro como órgão auxiliar do Setor de Ciências Exatas." },
+    { "quando": "Abril de 2020", "titulo": "Acordo com o MJSP e a Polícia Federal", "texto": "Acordo de cooperação técnica 27/20 com o Ministério da Justiça e Segurança Pública, com interveniência da Polícia Federal." },
+    { "quando": "Maio de 2020", "titulo": "Acordo com a segurança pública do Paraná", "texto": "Acordo de cooperação técnica 28/20 com a Secretaria de Segurança Pública, a Polícia Científica do Paraná e a FUNPAR. Os primeiros laboratórios — C3SL, LAMIR e Central Analítica da Química — passam a atuar de forma integrada." },
+    { "quando": "23 de setembro de 2020", "titulo": "Inauguração", "texto": "O CCF é inaugurado oficialmente em cerimônia remota com representantes da UFPR e dos governos estadual e federal." },
+    { "quando": "2021", "titulo": "Portfólio e primeiro relatório", "texto": "Publicação do portfólio de projetos e do relatório de atividades do ano-base 2020." },
+    { "quando": "Hoje", "titulo": "Expansão em rede", "texto": "Por meio do NAPI Segurança Pública e Ciências Forenses, o trabalho se estende a outras instituições e pesquisadores do Paraná." }
+  ],
+
+  "parceiros": [
+    { "nome": "Polícia Federal", "detalhe": "Acordo de cooperação técnica 27/20" },
+    { "nome": "Ministério da Justiça e Segurança Pública", "detalhe": "Acordo de cooperação técnica 27/20" },
+    { "nome": "Polícia Científica do Paraná", "detalhe": "Acordo de cooperação técnica 28/20" },
+    { "nome": "Secretaria da Segurança Pública do Paraná", "detalhe": "Acordo de cooperação técnica 28/20" },
+    { "nome": "FUNPAR", "detalhe": "Fundação da UFPR para o desenvolvimento da ciência, da tecnologia e da cultura" },
+    { "nome": "NAPI Segurança Pública e Ciências Forenses", "detalhe": "Novo Arranjo de Pesquisa e Inovação do Paraná" }
+  ],
+
+  "documentos": [
+    { "titulo": "Portfólio do CCF (julho de 2021)", "formato": "PDF", "url": "https://ccf.c3sl.ufpr.br/wp-content/uploads/2021/10/Portfolio-CCF-UFPR_Portfolio-Julho-2021.pdf" },
+    { "titulo": "Relatório de atividades — ano-base 2020", "formato": "PDF", "url": "https://ccf.c3sl.ufpr.br/wp-content/uploads/2021/10/Relatorio-de-atividades-ano-base-2020.pdf" }
+  ],
+
+  "noticias": [
+    { "data": "23 jun. 2025", "veiculo": "Agência Escola UFPR", "titulo": "Além da ficção: Centro de Ciências Forenses da UFPR revela a realidade da área", "url": "https://agenciaescola.ufpr.br/alem-da-ficcao-centro-de-ciencias-forenses-da-ufpr-revela-a-realidade-da-area/" },
+    { "data": "25 set. 2020", "veiculo": "Polícia Científica do Paraná", "titulo": "Polícia Científica e UFPR inauguram Centro de Ciências Forenses", "url": "https://www.policiacientifica.pr.gov.br/Noticia/Policia-Cientifica-e-UFPR-inauguram-Centro-de-Ciencias-Forenses" },
+    { "data": "Set. 2020", "veiculo": "UFPR", "titulo": "Centro de Ciências Forenses da UFPR é inaugurado em Curitiba; meta é desenvolver tecnologias na área de segurança", "url": "https://ufpr.br/centro-de-ciencias-forenses-da-ufpr-e-inaugurado-em-curitiba-meta-e-desenvolver-tecnologias-em-seguranca/" },
+    { "data": "2020", "veiculo": "UFPR", "titulo": "UFPR integra laboratórios em Centro de Ciências Forenses, iniciativa para consolidar área no Brasil", "url": "https://ufpr.br/ufpr-integra-laboratorios-em-centro-de-ciencia-forense/" }
+  ]
+}

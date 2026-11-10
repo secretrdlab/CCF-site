@@ -1,0 +1,44 @@
+[
+  {
+    "titulo": "Autenticidade de obras de arte apreendidas na Operação Lava Jato",
+    "area": "Obras de arte e herança cultural",
+    "parceiros": "Polícia Federal no Paraná",
+    "texto": "Análises de espalhamento Raman e de fotoluminescência em pigmentos ampliaram o uso de técnicas ópticas na avaliação de obras apreendidas.",
+    "destaque": true
+  },
+  {
+    "titulo": "Drogas, adulterações e falsificações",
+    "area": "Química forense",
+    "parceiros": "Polícia Federal · Polícia Científica do Paraná",
+    "texto": "Identificação de novas substâncias psicoativas e de substâncias ilícitas, investigação de adulterações e avaliação do teor de álcool em sanitizantes e álcool em gel durante a pandemia de covid-19.",
+    "destaque": true
+  },
+  {
+    "titulo": "Sistema de geoprocessamento inteligente para monitoramento de fronteiras",
+    "area": "Geoprocessamento forense",
+    "parceiros": "Delegacia da Polícia Federal em Foz do Iguaçu · SEOPI/MJSP",
+    "texto": "Proposta de infraestrutura e P&D que combina aeronaves remotamente pilotadas, sensores embarcados e aprendizado de máquina para apoiar a atuação de agentes de segurança na faixa de fronteira.",
+    "destaque": true
+  },
+  {
+    "titulo": "Mapeamento 3D de ambientes internos com câmeras RGB-D",
+    "area": "Geoprocessamento forense",
+    "parceiros": "Universidade de Melbourne (Austrália)",
+    "texto": "Sistema de baixo custo para mapeamento e reconstrução tridimensional de ambientes internos, com aplicação em documentação de locais de crime.",
+    "destaque": false
+  },
+  {
+    "titulo": "Mineralogia e geologia forense em fraude de comércio exterior",
+    "area": "Mineralogia forense",
+    "parceiros": "Polícia Federal · Instituto LAMIR",
+    "texto": "Investigação de carga de lingotes de zinco importada da China e substituída por rocha triturada, com análises mineralógicas que subsidiaram a investigação.",
+    "destaque": false
+  },
+  {
+    "titulo": "Perícia no sítio arqueológico da aldeia Tekoha Jevy, em Guaíra (PR)",
+    "area": "Geofísica forense",
+    "parceiros": "Polícia Federal · Ministério Público Federal · UnB",
+    "texto": "Levantamento com radar de penetração do solo (GPR) e escavações em apoio a perícia em área de interesse arqueológico.",
+    "destaque": false
+  }
+]

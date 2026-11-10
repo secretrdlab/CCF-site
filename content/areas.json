@@ -1,0 +1,56 @@
+[
+  {
+    "id": "obras-de-arte",
+    "titulo": "Autenticidade de obras de arte, documentos e objetos de herança cultural",
+    "texto": "Técnicas ópticas e espectroscópicas, como espalhamento Raman e fotoluminescência, identificam pigmentos e materiais para avaliar a autenticidade de bens culturais.",
+    "laboratorios": ["lpo", "lab-air"]
+  },
+  {
+    "id": "drogas-adulteracoes",
+    "titulo": "Combate a drogas, adulterações e falsificações",
+    "texto": "Identificação de substâncias ilícitas e investigação de fraudes em alimentos, medicamentos, agroquímicos, sanitizantes e outros produtos.",
+    "laboratorios": ["rmn", "ca-dqui", "labicem"]
+  },
+  {
+    "id": "forense-computacional",
+    "titulo": "Correlação de evidências digitais e forense computacional",
+    "texto": "Coleta, análise e correlação de evidências digitais para a elucidação de crimes cibernéticos e de incidentes de segurança.",
+    "laboratorios": ["c3sl"]
+  },
+  {
+    "id": "geoprocessamento",
+    "titulo": "Geoprocessamento forense",
+    "texto": "Mapeamento, sensoriamento remoto, reconstrução 3D e aeronaves remotamente pilotadas aplicados à investigação e ao monitoramento de áreas de interesse.",
+    "laboratorios": ["lape", "lpga"]
+  },
+  {
+    "id": "nsp",
+    "titulo": "Identificação de Novas Substâncias Psicoativas (NSP)",
+    "texto": "Elucidação estrutural de substâncias emergentes, com apoio técnico à atualização das listas de substâncias controladas.",
+    "laboratorios": ["rmn", "labicem"]
+  },
+  {
+    "id": "microvestigios",
+    "titulo": "Microvestígios de interesse forense",
+    "texto": "Caracterização de vestígios microscópicos — partículas, fibras, resíduos e materiais — que ligam pessoas, objetos e locais.",
+    "laboratorios": ["gqm", "lab-air", "lamir"]
+  },
+  {
+    "id": "mineralogia-ouro",
+    "titulo": "Mineralogia forense e cadeia de exploração do ouro",
+    "texto": "Análises mineralógicas e geoquímicas para determinar a procedência de minerais, rochas e ouro e apoiar o combate à extração ilegal.",
+    "laboratorios": ["lamir", "labesed"]
+  },
+  {
+    "id": "rastreamento",
+    "titulo": "Rastreamento de origem de vestígios e amostras criminais",
+    "texto": "Assinaturas químicas, geológicas e ambientais que indicam de onde veio uma amostra apreendida ou coletada em local de crime.",
+    "laboratorios": ["lamir", "ca-dqui", "labesed"]
+  },
+  {
+    "id": "toxicologia",
+    "titulo": "Toxicologia forense",
+    "texto": "Detecção e quantificação de substâncias tóxicas em amostras biológicas e ambientais, incluindo agrotóxicos e agentes químicos.",
+    "laboratorios": ["labicem", "catalise"]
+  }
+]
